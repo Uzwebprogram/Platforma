@@ -1,0 +1,107 @@
+.Dashboard-top-statica{
+    width: 202px;
+    height: 80px;
+    background-color: #364153;
+    border-radius: 10.5px;
+    display: flex;  
+}
+.Dashboard-top{
+    display: flex;
+    justify-content: space-between;
+}
+.Dashboard{
+    flex-direction: column;
+}
+.main-name{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 31px;
+}
+.main-name-date{
+    width: 137px;
+    height: 42px;
+    background-color: white;
+    border: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: gray;
+}
+.main-name-left{
+    width: 290px;
+    display: flex;
+    justify-content: space-between;
+}
+.Dashboard-top-statica-img{
+    border: 3px solid #605CFF;
+    margin-top: 25px;
+    margin-left: 30px;
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #605CFF;
+    margin-right: 24px;
+}
+.Dashboard-top-statica-left{
+    margin-top: 20px;
+}
+.Dashboard-top-statica-left-heading{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.78px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+.Dashboard-top-statica-left-padding{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.22px;
+    line-height: 19px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+.Dashboard-top-statica-img-green{
+    border: 3px solid #FC00E3;
+    margin-top: 25px;
+    margin-left: 30px;
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #FC00E3;
+    margin-right: 24px;
+}
+.Dashboard-top-statica-img-yellow{
+    border: 3px solid #00FCA1;
+    margin-top: 25px;
+    margin-left: 30px;
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background: #00FCA1;
+    margin-right: 24px;
+}
+.Dashboard-top-statica-img-pig{
+    border: 3px solid #0912F8;
+    margin-top: 25px;
+    margin-left: 30px;
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #0912F8;
+    margin-right: 24px;
+}
+.Dashboard-left{
+    width: 702px;
+    height: 408px;
+}
